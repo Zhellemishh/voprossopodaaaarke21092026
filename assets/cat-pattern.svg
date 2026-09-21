@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="280" viewBox="0 0 280 280">
+  <g fill="none" stroke="#a95178" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity=".38">
+    <!-- cat -->
+    <g transform="translate(26 24)">
+      <path d="M18 49 24 27 40 39q10-5 20 0l16-12 6 23c7 7 10 16 10 27 0 22-18 38-44 38S4 99 4 77c0-11 4-21 14-28Z"/>
+      <path d="M31 69q3-3 6 0M57 69q3-3 6 0M43 79q4 4 8 0"/>
+      <path d="M20 79 5 76M21 87 5 90M76 79l15-3M75 87l16 4"/>
+    </g>
+
+    <!-- curled cat -->
+    <g transform="translate(144 122)">
+      <path d="M10 67c-1-23 15-42 38-43 26-1 43 17 43 40 0 24-19 40-45 40-19 0-34-12-36-37Z"/>
+      <path d="M39 31q-8-12 0-24 10 7 13 19"/>
+      <path d="M52 61q3-3 6 0M69 61q3-3 6 0M61 71q4 4 8 0"/>
+      <path d="M34 83q23 12 42-4"/>
+    </g>
+
+    <!-- sitting mini cat -->
+    <g transform="translate(174 26) scale(.62)">
+      <path d="M18 49 24 27 40 39q10-5 20 0l16-12 6 23c7 7 10 16 10 27 0 22-18 38-44 38S4 99 4 77c0-11 4-21 14-28Z"/>
+      <path d="M31 69q3-3 6 0M57 69q3-3 6 0M43 79q4 4 8 0"/>
+    </g>
+
+    <path d="M125 38c-8-12-26-3-16 9l16 14 16-14c10-12-8-21-16-9Z"/>
+    <path d="M89 224c-7-9-19 1-11 10l11 10 11-10c8-9-4-19-11-10Z"/>
+
+    <!-- tiny paws -->
+    <g transform="translate(18 215)">
+      <circle cx="14" cy="8" r="3"/><circle cx="25" cy="5" r="3"/>
+      <path d="M17 18c-9 0-14-5-12-11 2-5 8-5 12-1 1-7 8-9 12-5 4 4 0 11-5 14-3 2-5 3-7 3Z"/>
+    </g>
+  </g>
+</svg>
